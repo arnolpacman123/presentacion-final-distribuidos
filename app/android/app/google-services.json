@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "523057473143",
+    "project_id": "flutter-notification-1fdb7",
+    "storage_bucket": "flutter-notification-1fdb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523057473143:android:f289854dbeb02bf82d8872",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523057473143-8h3m73jrctm96t9goir87s82sivn8ogj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "bae54a404230384b150c867c67cba21adaac877a"
+          }
+        },
+        {
+          "client_id": "523057473143-7ku6q2d8vujaotgn9ilu6r33kaddcufe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQzAakaJuYli9TlQxpkbuwtBLi4XC-sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523057473143-7ku6q2d8vujaotgn9ilu6r33kaddcufe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523057473143:android:ab8effd225264ecc2d8872",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523057473143-7ku6q2d8vujaotgn9ilu6r33kaddcufe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQzAakaJuYli9TlQxpkbuwtBLi4XC-sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523057473143-7ku6q2d8vujaotgn9ilu6r33kaddcufe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

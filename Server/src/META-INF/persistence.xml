@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="ServerPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>entities.Devices</class>
+    <class>entities.Datas</class>
+    <class>entities.Rules</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://postgresql-arnolpacman123.alwaysdata.net:5432/arnolpacman123_distribuidos??zeroDateTimeBehavior=CONVERT_TO_NULL"/>
+      <property name="javax.persistence.jdbc.user" value="arnolpacman123"/>
+      <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
+      <property name="javax.persistence.jdbc.password" value="Aspirine217021220"/>
+    </properties>
+  </persistence-unit>
+</persistence>
